@@ -19,7 +19,6 @@
 
         <div class="title m-b-md">
             The North's Best Pizzas
-            <!-- test -->
         </div>
 
         <p class="mssg">{{ session('mssg') }}</p>
